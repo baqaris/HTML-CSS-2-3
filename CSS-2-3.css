@@ -1,0 +1,518 @@
+body {
+ margin:0;
+
+   
+}
+
+
+header {
+
+    width: 1231px;
+    padding: 12px 24px;
+    align-items: center;
+    background-color: #E9D7FE;
+    justify-content: center;
+    vertical-align: middle;
+    text-align: center;
+    margin-left: auto;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 173px;
+    padding-right: 290px;
+
+}
+
+.navigation {
+    display: inline-block;
+    width: 349px;
+}
+
+.navigation a {
+    text-decoration: none;
+
+}
+
+.aboutancor {
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-right: 20px;
+}
+
+.Whatweoffer {
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-right:20px;
+}
+.ContactAncor {
+    color: #8E26C0;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-right:20px;
+}
+
+.Helpancor {
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+
+.ConactUs {
+    display: inline-block;
+    width: 105px;
+    padding-left: 290px;
+}
+
+.ConactUs button {
+    border: 1px solid #8E26C0;
+    border-radius: 8px;
+    color: #8E26C0;
+    padding: 8px 16px;
+    background-color: #F7F4FF;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.MaincConteiner{
+    text-align: center;
+    margin-top: 142px;
+   
+}
+.MaincConteiner img{
+    display: inline-block;
+    justify-content: center;
+    vertical-align: middle;
+    width: 610px;
+    height: 458px;
+   
+    
+    
+    
+}
+.WhatWeOffer{
+display: inline-block;
+vertical-align: middle;
+width: 644px;
+height:325px;
+padding-left:45px;
+
+    
+}
+
+.WhatWeOffer h3{
+width: 644px;
+color: #000;
+text-align: center;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.WhatWeOffer p{
+    width: 644px;
+    color: #535862;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+}
+.WhatWeOffer ol{
+    width:335px;
+    text-align:left;
+
+}
+.ConactUsconteiner{
+   
+    width:1221px;
+    height:706px;
+    margin:0 auto;
+}
+.ConactUsconteiner h2{
+    width:905px;
+    color: #000;
+    text-align: center;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+}
+.ConactUsconteiner p{
+    width:905px;
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.ConteinerAdress{
+   
+    width:1221px;
+    height:538px;
+    border:1px solid #5936bb;
+    border-radius: 16px;
+    background-color: #E9D7FE;
+    padding: 32px;
+}
+
+
+
+.nextConteiner{
+    width: 1221px;
+    height:766px;
+    margin:0 auto;
+}
+
+.chapters{
+    width: 905px;
+    height:140px;
+    text-align:center;   
+    margin: 0 auto;
+}
+.chapters h3{
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 83px 0 18px 0;
+    
+}
+.chapters p{
+
+    color: #535862;
+    text-align: center;
+    font-family: Prata;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+
+.chapterSon{
+    width:1157px;
+    height:474px;
+    background-color:#F7F4FF;
+    padding:32px;
+    border-radius:16px;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.address{
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width: 363px;
+    height:434px;
+    background-color: white;
+    border-radius: 16px;
+    padding:20px;
+
+
+}
+.addressimage{
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+    width:32px;
+    height:32px;
+    padding-right: 16px;
+}
+.addressTextes{
+    display: inline-block;
+    vertical-align: middle;
+    width:291px;
+
+}
+
+.adressTextOne{
+    margin:0;
+    font-size:20px;
+    color:#000;
+    font-style: normal;
+    font-weight:700;
+}
+.adressTextSec{
+    margin:0;
+    color:#6d5f8b;
+    font-size:16px;
+    font-style:normal;
+    font-weight: 400;
+}
+
+.adressimageMail{
+    display:inline-block;
+    justify-content: center;
+    vertical-align: middle;
+    width:32px;
+    margin-top:24px;
+    padding-right:20px;
+}
+.EmailAdress{
+    display: inline-block;
+    justify-content:center;
+    vertical-align: middle;
+    width:291px;
+    margin-top:24px;
+    
+}
+.EmailText{
+    color:#000;
+    font-size:20px;
+    font-style:normal;
+    font-weight:700;
+    margin:0;
+}
+.EmailTextExample{
+    margin:0;
+    color:#6d5f8b;
+    font-size:16px;
+    font-weight:400;
+    font-style:normal;
+}
+
+.PhoneImage{
+    display:inline-block;
+    vertical-align:middle;
+    justify-content:center;
+    width:32px;
+    padding-right:20px;
+    margin-top:24px;
+}
+.PhoneAdress{
+    display:inline-block;
+    vertical-align:middle;
+    justify-content:center;
+    width: 103px;
+    padding-top:24px;
+}
+
+.phoneText{
+    font-size:20px;
+    font-style:normal;
+    font-weight:700;
+    color:#000;
+    margin:0;
+}
+.PhoneNumbersExample{
+    color:#6d5f8b;
+    font-size:16px;
+    font-weight: 400;
+    font-style:normal;
+    margin:0;
+}
+
+.SendMesaageConteiner{
+    display: inline-block;
+    justify-content:center;
+    vertical-align: middle;
+    width:730px;
+    height: 474px;
+    
+}
+.headerOfconterner{
+    width:730px;
+    
+}
+.headerOfconterner p{
+    color:#1B003D;
+    font-size:32px;
+    font-size:normal;
+    font-weight:900;
+    line-height: 44px;
+    text-transform: uppercase;
+    margin: 0;
+    padding-left:24px;
+}
+
+
+.formstyle{
+    width:730px;
+    height:414px;
+    padding-left:24px;
+}
+
+.formstyle label{
+    display: block;
+    font-size:14px;
+    font-style:normal;
+    color:#1B003D;
+    font-weight:400;
+    line-height:18px;
+    
+}
+.formstyle input{
+    display: block;
+    width:698px;
+    height:32px;
+    padding:8px 16px;
+    border-radius:8px;
+    border: 1px solid #8e26c0;
+    margin-bottom:24px;
+}
+.formstyle textarea{
+    width:698px;
+    height:122px;
+    padding: 12px 16px;
+    border-radius:16px;
+    border:1px solid #8E26C0;
+    resize: none;
+}
+.button{
+    padding:12px 24px;
+    display: inline-block;
+    color:white;
+    cursor: pointer;
+    background-color: #8E26C0;
+}
+.buttomSumbitcont {
+    margin-top: 24px;
+    text-align: right;
+}
+.submit-button{
+    width: 140px;
+    padding: 12px 24px;
+    justify-content: center;
+    align-items: center;
+    background-color: #8E26C0;
+    color: white;
+    border-radius: 8px;
+}
+
+.footers{
+    display: block;
+    padding:64px 0 48px 0;
+    align-items:center;
+    background-color: #53389E;
+    text-align: center;
+    
+}
+.insideFooter{
+    display: inline-block;
+    width:1216px;
+    height: 240px;
+    padding:0 32px;
+
+    margin-bottom: 64px;
+   
+}
+
+.lestFooter{
+    display: inline-block;
+    border-top: 1px solid #7F56D9;
+    width:1216px;
+    height:64px;
+    padding:0 32px;
+    
+    
+   
+}
+.FitsrTootAncors{
+    display: inline-block;
+    justify-content:center;
+    vertical-align: middle;
+    width: 176px;
+    height:240px;
+   
+    margin:0 10px;
+}
+
+.SecTootAncors{
+    display:inline-block ;
+    justify-content:center;
+    vertical-align: middle;
+    width: 176px;
+    height:240px;
+    
+    margin:0 10px;
+}
+.threethAncors{
+    display:inline-block;
+    justify-content:center;
+    vertical-align:middle;
+    width:176px;
+    height:240px;
+    
+    margin:0 10px;
+}
+.FourthAncors{
+    display:inline-block;
+    justify-content:center;
+    vertical-align:middle;
+    width:176px;
+    height:240px;
+    
+    margin:0 10px;
+}
+.fifthAncors{
+    display:inline-block;
+    vertical-align:middle;
+    justify-content: center;
+    width: 176px;
+    height: 240px;
+    margin:0 10px;
+}
+.sixthAncors{
+    display:inline-block;
+    vertical-align: middle;
+    justify-content:center;
+    width:176px;
+    height:240px;
+    
+    margin:0 10px;
+}
+.insideFooter a{
+    text-decoration: none;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    color:#E9D7FE;
+}
+
+.foterLogos{
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    vertical-align:text-bottom;
+    padding-right: 174px;
+    
+    
+    
+}
+.lestFooterText{
+    display: inline-block;
+    justify-content: center;
+    vertical-align:text-bottom;
+    text-align: right;
+    width:293px;
+    font-style:normal;
+    font-weight: 400;
+    color:#D6BBFB;
+    padding-left: 484px;
+    padding-top:32px;
+   
+    
+}
